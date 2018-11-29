@@ -1,0 +1,39 @@
+/*
+Marissa McCarrick
+November 8
+MetaData Project: This is a page that describes what Christmas means to me and what I do!
+/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {background-color:oldlaceq;
+    font-family:"Good Vibes", "Dancing Script", cursive;
+}
+ #Christmas {width:350px; height:400;}
+#Christmas { float:left;
+    
+}
+header {
+    background-color: mediumseagreen;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 200%;
+}
+main { 
+    background-color:orangered;
+    }
+
+footer {
+    background-color: goldenrod;
+}
+
+
